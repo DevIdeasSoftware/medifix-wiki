@@ -1,5 +1,5 @@
 [Home](https://github.com/DevIdeasSoftware/medifix-wiki) | [Más info](https://developer.mozilla.org/es/docs/Web/HTTP/Status)
-# **Códigos de Respuesta**
+# **Códigos de Respuesta** 🔧
 A continuación, listado de códigos de respuesta relacionados a api medifix. 🚀
 ---
 Código  |Descripción                          |HTTP Status|Ejemplo de uso
