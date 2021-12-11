@@ -7,3 +7,5 @@ Código    | Descripción   | HTTP Status
 MDFA-000  |La operación se ejecuto correctamente  |200
 MDFA-000  |La operación se ejecuto correctamente  |201
 MDFA-000  |La operación se ejecuto correctamente  |202
+MDFA-001  |Error desconocido                      |500
+MDFA-002  |Bad Request                            |400
