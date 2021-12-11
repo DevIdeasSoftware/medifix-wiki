@@ -3,7 +3,7 @@
 A continuación, listado de códigos de respuesta relacionados a api medifix.
 ---
 Código    | Descripción                           | HTTP Status | Ejemplos de uso
--------   | -----------                           | ------------| ------------
+--------- | -----------                           | ------------| ------------
 MDFA-000  | La operación se ejecuto correctamente | 200         | Se ejecutan consultas o peticiones.
 MDFA-000  | La operación se ejecuto correctamente | 201         | Se crea un usuario.
 MDFA-000  | La operación se ejecuto correctamente | 202         | Se eliminan datos o usuarios.
